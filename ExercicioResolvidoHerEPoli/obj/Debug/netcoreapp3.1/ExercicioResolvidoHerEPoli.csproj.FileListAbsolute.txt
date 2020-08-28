@@ -1,0 +1,13 @@
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\bin\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.exe
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\bin\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.deps.json
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\bin\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.runtimeconfig.json
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\bin\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.runtimeconfig.dev.json
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\bin\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.dll
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\bin\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.pdb
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\obj\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.csprojAssemblyReference.cache
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\obj\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.csproj.CoreCompileInputs.cache
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\obj\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.AssemblyInfoInputs.cache
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\obj\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.AssemblyInfo.cs
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\obj\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.dll
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\obj\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.pdb
+C:\Users\gisel\Desktop\Projeto C#\ExercicioResolvidoHerEPoli\ExercicioResolvidoHerEPoli\obj\Debug\netcoreapp3.1\ExercicioResolvidoHerEPoli.genruntimeconfig.cache
